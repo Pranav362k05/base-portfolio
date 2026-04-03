@@ -20,14 +20,16 @@ It follows a clean, structured layout inspired by encyclopedia-style design, foc
 
 ## Project Structure
 
+```
 portfolio-website/
 │
 ├── index.html
 ├── portfolio.css
 ├── portfolio.js
 └── assets/
-├── profile.jpeg
-└── secondary-placeholder.png
+    ├── profile.jpeg
+    └── secondary-placeholder.png
+```
 
 
 ## Current Status
