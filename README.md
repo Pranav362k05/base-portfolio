@@ -45,3 +45,6 @@ Further improvements and features will be added in upcoming updates.
 - Deploy the website (GitHub Pages / Netlify)
 - Convert into a full-stack or dynamic portfolio
 ---
+
+## Updated Website link: 
+https://pranav362k05.github.io/
