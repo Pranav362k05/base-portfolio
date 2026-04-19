@@ -3,6 +3,8 @@
 This is a personal portfolio website built using HTML, CSS, and JavaScript.  
 It follows a clean, structured layout inspired by encyclopedia-style design, focusing on readability, accessibility, and organization.
 
+https://pranav362k05.github.io/base-portfolio/
+
 ## Features
 
 - Structured multi-section layout (Introduction, Skills, Projects, etc.)
@@ -45,6 +47,9 @@ Further improvements and features will be added in upcoming updates.
 - Deploy the website (GitHub Pages / Netlify)
 - Convert into a full-stack or dynamic portfolio
 ---
+
+## GitHub pages link:
+https://pranav362k05.github.io/base-portfolio/
 
 ## Updated Website link: 
 https://pranav362k05.github.io/
